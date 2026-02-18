@@ -1,3 +1,7 @@
 .github
 .venv
 monai-env
+Detection_of_developmental_dysplasia_of_the_hip_in.pdf
+A_dataset_of_DDH_x-ray_images
+notebooks/best_model.pth
+notebooks/best_model_clean.pth

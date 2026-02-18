@@ -7,6 +7,8 @@ jupyter>=1.0
 ipykernel>=6.25
 torch>=2.2
 torchvision>=0.17
-monai>=1.3
 scikit-learn>=1.3
 Pillow>=10.0
+monai
+tqdm
+tensorboard
